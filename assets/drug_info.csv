@@ -1,0 +1,9 @@
+Name,Disease,Dose,Interval,Food,Alcohol,Tobacco,Recommended_hours,Relative_time_for_meal,Special_note
+Glimepiride,Diabetes,1,24,1,0,6,"(6,9)",,
+Chlorthalidone,Hypertension,1,24,1,-1,0,,,
+Simvastatin,Hyperlipidemia,1,24,-1,-1,-1,"(20,22)",,Avoid_grape_fruits
+Omeprazole,Gastric_ulcer,2,24,0,-1,-1,"(6,9)",0.5,
+Ciprofloxacin,Bacterial_infections,1,8,-1,-1,-1,,,Avoid_milk_and_dairy_products;_limit_caffiene
+Enoxacin,Bacterial_infections,1,12,0,-1,-1,,1,
+Voriconazole,Fungal_infections,1,12,0,-1,-1,,1,Avoid_sunlight
+Tacrolimus,Immunosuppressive,2,12,0,0,-1,,1,Avoid_grape_fruits
